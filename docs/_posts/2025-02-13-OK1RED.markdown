@@ -19,34 +19,34 @@ Naštěstí mě kamarád radioamatér přivedl na myšlenku zřízení klubové 
 
 Dlouho jsem se nerozmýšlel a po výběru konkrétní značky jsem podal na ČTU žádost. Z pohodlnosti jsem se rozhodl pořídit kolektivku ihned abych měl obnovu obou svých značek ve stejném roce. Po krátkém hledání na stránkách ČTU jsem našel formulář [13N](https://ctu.gov.cz/sites/default/files/obsah/ctu-new/formulare/zadosti-a-navrhy/13n.zfo) který je potřeba odeslat. Jako jeden z mnoha ho nemá ČTU v online podobě a k jeho vyplnění je třeba použít [602FormFiller](https://www.602.cz/form-filler), který před nějakou dobou vyšel i pro Linux a nečekal jsem tedy v použití tohoto uzavřeného formátu žádný větší problém. Bohužel v Software602 dospěli k nápadu ukončení podpory Linuxu a tím mi zavřeli cestu k vyplnění úředníkem definovaného formuláře. Obešel jsem to zkušební verzí online virtuálního počítače s Windows od Microsoftu a formulář odeslal datovou schránkou.
 
-K vyplnění jsou dvě první stránky:
+### K vyplnění jsou dvě první stránky:
 
-- Strana 1:
-  
-  - Žádost o: nové oprávnění
-  
-  - Žadatel: Nepodnikající osoba // případně podle stavu žadatele
-  
-  - Titul, Jméno, Příjmení
-  
-  - Datum narození 
-  
-  - Adresa bydliště a doručovací adresa pokud se liší
-  
-  - Kontakty: Datová schránka, email a telefon
-  
-  ![13N-1.png](/home/taz/Stažené/13N-1.png)
+##### Strana 1:
 
-- Strana 2:
-  
-  - Typ stanice: Klubová stanice
-  - Adresa tedy QTH
-  - Opět jméno příjmení a datum narození žadatele
-  - Volací značka žadatele tedy vaše již přidělená
-  - Hlavní opererátor stanice: To jste opět vy jako žadatel
-  - Volací značka: Tady je již požadovaná volací značka OK1 nebo OK2  a trojici písmen začínající na R, K nebo H
-  
-  ![13N-2.png](/home/taz/Stažené/13N-2.png)
+- Žádost o: nové oprávnění
+
+- Žadatel: Nepodnikající osoba // případně podle stavu žadatele
+
+- Titul, Jméno, Příjmení
+
+- Datum narození 
+
+- Adresa bydliště a doručovací adresa pokud se liší
+
+- Kontakty: Datová schránka, email a telefon
+
+![13N-1.png](/home/taz/Stažené/13N-1.png)
+
+##### Strana 2:
+
+- Typ stanice: Klubová stanice
+- Adresa tedy QTH
+- Opět jméno příjmení a datum narození žadatele
+- Volací značka žadatele tedy vaše již přidělená
+- Hlavní opererátor stanice: To jste opět vy jako žadatel
+- Volací značka: Tady je již požadovaná volací značka OK1 nebo OK2  a trojici písmen začínající na R, K nebo H
+
+![13N-2.png](/home/taz/Stažené/13N-2.png)
 
 Současně s žádostí jsem rovnou odeslala platbu na stejný účet jako při žádosti o koncesi. Jako VS se uvádí rodné číslo žadatele.
 
