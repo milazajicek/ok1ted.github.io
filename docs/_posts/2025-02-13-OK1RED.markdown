@@ -1,9 +1,9 @@
-```
+---
 layout: post
 title:  "Vlastní klubová značka"
 date:   2025-02-13 18:00:00 +0100
 categories: ctu
-```
+---
 
 # Vysílání s vlastními potomky aneb klubová volací značka.
 
