@@ -15,42 +15,6 @@ Postupně jak objevuji další možnosti radioamaterského hobby, mě začínaj�
 
 Naštěstí mě kamarád radioamatér přivedl na myšlenku zřízení klubové nebo chceteli kolektivní značky. Tato s omezeném třídy Novice dovoluje vysílat pod dozorem i neradioamatérům a můj problém by mohla vyřešit.
 
-##### Operátorská třída N (Novice)
-
-| Kmitočtové pásmo |            | Status*) |
-| ---------------- | ---------- | -------- |
-| Od               | Do         |          |
-| 1 830 kHz        | 1 850 kHz  | P        |
-| 1 850 kHz        | 2 000 kHz  | NIB VI)  |
-| 3 550 kHz        | 3 700 kHz  | P        |
-| 21,050 MHz       | 21,200 MHz | P        |
-| 28,050 MHz       | 28,400 MHz | P        |
-| 144 MHz          | 146 MHz    | P        |
-| 430 MHz          | 440 MHz    |          |
-| 1 240 MHz        | 1 300 MHz  | S        |
-| 2 300 MHz        | 2 450 MHz  | S        |
-| 3 400 MHz        | 3 410 MHz  | NIB VI)  |
-| 5 650 MHz        | 5 850 MHz  | S        |
-| 10,00 GHz        | 10,50 GHz  |          |
-| 24,00 GHz        | 24,05 GHz  | P        |
-| 24,05 GHz        | 24,25 GHz  | S        |
-| 47,00 GHz        | 47,20 GHz  | P        |
-| 75,50 GHz        | 76,00 GHz  |          |
-| 76,00 GHz        | 77,50 GHz  | S        |
-| 77,50 GHz        | 78,00 GHz  | P        |
-| 78,00 GHz        | 81,00 GHz  | S        |
-| 122,25 GHz       | 123,00 GHz |          |
-| 134,00 GHz       | 136,00 GHz | P        |
-| 136,00 GHz       | 141,00 GHz | S        |
-| 241,00 GHz       | 248,00 GHz |          |
-| 248,00 GHz       | 250,00 GHz | P        |
-
-**) P = přednostní (primární) pásmo*
-
-*S = podružné (sekundární) pásmo*
-
-*NIB = na neinterferenční bázi*
-
 > Klubovým stanicím se přidělují volací značky začínající OK1 a OK2 a trojice písmen, začínající písmeny K, O nebo R
 
 Dlouho jsem se nerozmýšlel a po výběru konkrétní značky jsem podal na ČTU žádost. Z pohodlnosti jsem se rozhodl pořídit kolektivku ihned abych měl obnovu obou svých značek ve stejném roce. Po krátkém hledání na stránkách ČTU jsem našel formulář [13N](https://ctu.gov.cz/sites/default/files/obsah/ctu-new/formulare/zadosti-a-navrhy/13n.zfo) který je potřeba odeslat. Jako jeden z mnoha ho nemá ČTU v online podobě a k jeho vyplnění je třeba použít [602FormFiller](https://www.602.cz/form-filler), který před nějakou dobou vyšel i pro Linux a nečekal jsem tedy v použití tohoto uzavřeného formátu žádný větší problém. Bohužel v Software602 dospěli k nápadu ukončení podpory Linuxu a tím mi zavřeli cestu k vyplnění úředníkem definovaného formuláře. Obešel jsem to zkušební verzí online virtuálního počítače s Windows od Microsoftu a formulář odeslal datovou schránkou.
@@ -81,7 +45,7 @@ K vyplnění jsou dvě první stránky:
   - Volací značka žadatele tedy vaše již přidělená
   - Hlavní opererátor stanice: To jste opět vy jako žadatel
   - Volací značka: Tady je již požadovaná volací značka OK1 nebo OK2  a trojici písmen začínající na R, K nebo H
-
+  
   ![13N-2.png](/home/taz/Stažené/13N-2.png)
 
 Současně s žádostí jsem rovnou odeslala platbu na stejný účet jako při žádosti o koncesi. Jako VS se uvádí rodné číslo žadatele.
@@ -94,11 +58,47 @@ Za necelé dva dny se mi z úřadu ozvali s doplněním nějaky drobnosti jako n
 
 Doma jsem se hned pochlubil a následující víkend jsem ji s dcerou vyzkoušel. Jedenáctiletá si hned sedla na OK0BC s Eliškou z Opočna i s dalšími na převaděči zvládla hned první večer celkem sedm spojení které jsme poctivě zapsali do deníku. I na ní jsem pozoroval trému a rozpaky z vystoupení na pásmech. Pokud se jednou rozhodne zůčastnit kurzu u Vojty v Deštném, budou rozhodně méně vykulená než jsem byl já.
 
-# Vyhláška č. 156/2005 Sb.
+##### Operátorská třída N (Novice)
+
+| Kmitočtové pásmo |            | Status*) |
+| ---------------- | ---------- | -------- |
+| Od               | Do         |          |
+| 1 830 kHz        | 1 850 kHz  | P        |
+| 1 850 kHz        | 2 000 kHz  | NIB VI)  |
+| 3 550 kHz        | 3 700 kHz  | P        |
+| 21,050 MHz       | 21,200 MHz | P        |
+| 28,050 MHz       | 28,400 MHz | P        |
+| 144 MHz          | 146 MHz    | P        |
+| 430 MHz          | 440 MHz    |          |
+| 1 240 MHz        | 1 300 MHz  | S        |
+| 2 300 MHz        | 2 450 MHz  | S        |
+| 3 400 MHz        | 3 410 MHz  | NIB VI)  |
+| 5 650 MHz        | 5 850 MHz  | S        |
+| 10,00 GHz        | 10,50 GHz  |          |
+| 24,00 GHz        | 24,05 GHz  | P        |
+| 24,05 GHz        | 24,25 GHz  | S        |
+| 47,00 GHz        | 47,20 GHz  | P        |
+| 75,50 GHz        | 76,00 GHz  |          |
+| 76,00 GHz        | 77,50 GHz  | S        |
+| 77,50 GHz        | 78,00 GHz  | P        |
+| 78,00 GHz        | 81,00 GHz  | S        |
+| 122,25 GHz       | 123,00 GHz |          |
+| 134,00 GHz       | 136,00 GHz | P        |
+| 136,00 GHz       | 141,00 GHz | S        |
+| 241,00 GHz       | 248,00 GHz |          |
+| 248,00 GHz       | 250,00 GHz | P        |
+
+*P = přednostní (primární) pásmo*
+
+*S = podružné (sekundární) pásmo*
+
+*NIB = na neinterferenční bázi*
+
+### Vyhláška č. 156/2005 Sb.
 
 § 5
 
-### Klubové stanice
+#### Klubové stanice
 
 (1) 
 Operátor, který není držitelem průkazu HAREC nebo NOVICE, může 
@@ -119,6 +119,6 @@ uskutečněno rádiové spojení.
 
 (4) S obsahem oprávnění pro klubovou stanici musí být seznámen každý její operátor.
 
-Odkazy:
+### Odkazy:
 
 [Amatérská radiokomunikační služba | Český telekomunikační úřad](https://ctu.gov.cz/amaterska-radiokomunikacni-sluzba)
