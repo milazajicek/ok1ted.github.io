@@ -1,0 +1,124 @@
+```yaml
+layout: post
+title:  "Vlastní klubová značka"
+date:   2025-02-13 18:00:00 +0100
+categories: ctu
+```
+
+# Vysílání s vlastními potomky aneb klubová volací značka.
+
+Moje radioamatérská kariéra začala až letos v dubnu na kurzu v Deštném u Vojty OK1ZHV. Tam jsem měl poprvné příležitost si zavysílat tehdy ještě pod jejich klubovou značkou. Dodnes si pamatuji tu trému z prvních pokusů. 
+
+![screen_20250107-103002](https://amaterskeradio.cz/images/a/a/f/9/e/aaf9e475b0cb1aea63a843e2e0ba6494b67b46f9-screen20250107-103002.png "screen_20250107-103002")
+
+Postupně jak objevuji další možnosti radioamaterského hobby, mě začínají s menším nebo větším zájmem sledovat i moji potomci, ale co jim má dnes otec radioamatér povědět když si to chtěli také zkusit. Bohužel v našich končinách není možné aby vysílalo dítě s rodičem. Radioklub kam bych se s dětmi mohl vydat u nás není a stejně jde u dětí spíš o zvědavost než vážný zájem.
+
+Naštěstí mě kamarád radioamatér přivedl na myšlenku zřízení klubové nebo chceteli kolektivní značky. Tato s omezeném třídy Novice dovoluje vysílat pod dozorem i neradioamatérům a můj problém by mohla vyřešit.
+
+##### Operátorská třída N (Novice)
+
+| Kmitočtové pásmo |            | Status*) |
+| ---------------- | ---------- | -------- |
+| Od               | Do         |          |
+| 1 830 kHz        | 1 850 kHz  | P        |
+| 1 850 kHz        | 2 000 kHz  | NIB VI)  |
+| 3 550 kHz        | 3 700 kHz  | P        |
+| 21,050 MHz       | 21,200 MHz | P        |
+| 28,050 MHz       | 28,400 MHz | P        |
+| 144 MHz          | 146 MHz    | P        |
+| 430 MHz          | 440 MHz    |          |
+| 1 240 MHz        | 1 300 MHz  | S        |
+| 2 300 MHz        | 2 450 MHz  | S        |
+| 3 400 MHz        | 3 410 MHz  | NIB VI)  |
+| 5 650 MHz        | 5 850 MHz  | S        |
+| 10,00 GHz        | 10,50 GHz  |          |
+| 24,00 GHz        | 24,05 GHz  | P        |
+| 24,05 GHz        | 24,25 GHz  | S        |
+| 47,00 GHz        | 47,20 GHz  | P        |
+| 75,50 GHz        | 76,00 GHz  |          |
+| 76,00 GHz        | 77,50 GHz  | S        |
+| 77,50 GHz        | 78,00 GHz  | P        |
+| 78,00 GHz        | 81,00 GHz  | S        |
+| 122,25 GHz       | 123,00 GHz |          |
+| 134,00 GHz       | 136,00 GHz | P        |
+| 136,00 GHz       | 141,00 GHz | S        |
+| 241,00 GHz       | 248,00 GHz |          |
+| 248,00 GHz       | 250,00 GHz | P        |
+
+**) P = přednostní (primární) pásmo*
+
+*S = podružné (sekundární) pásmo*
+
+*NIB = na neinterferenční bázi*
+
+> Klubovým stanicím se přidělují volací značky začínající OK1 a OK2 a trojice písmen, začínající písmeny K, O nebo R
+
+Dlouho jsem se nerozmýšlel a po výběru konkrétní značky jsem podal na ČTU žádost. Z pohodlnosti jsem se rozhodl pořídit kolektivku ihned abych měl obnovu obou svých značek ve stejném roce. Po krátkém hledání na stránkách ČTU jsem našel formulář [13N](https://ctu.gov.cz/sites/default/files/obsah/ctu-new/formulare/zadosti-a-navrhy/13n.zfo) který je potřeba odeslat. Jako jeden z mnoha ho nemá ČTU v online podobě a k jeho vyplnění je třeba použít [602FormFiller](https://www.602.cz/form-filler), který před nějakou dobou vyšel i pro Linux a nečekal jsem tedy v použití tohoto uzavřeného formátu žádný větší problém. Bohužel v Software602 dospěli k nápadu ukončení podpory Linuxu a tím mi zavřeli cestu k vyplnění úředníkem definovaného formuláře. Obešel jsem to zkušební verzí online virtuálního počítače s Windows od Microsoftu a formulář odeslal datovou schránkou.
+
+K vyplnění jsou dvě první stránky:
+
+- Strana 1:
+  
+  - Žádost o: nové oprávnění
+  
+  - Žadatel: Nepodnikající osoba // případně podle stavu žadatele
+  
+  - Titul, Jméno, Příjmení
+  
+  - Datum narození 
+  
+  - Adresa bydliště a doručovací adresa pokud se liší
+  
+  - Kontakty: Datová schránka, email a telefon
+  
+  ![13N-1.png](/home/taz/Stažené/13N-1.png)
+
+- Strana 2:
+  
+  - Typ stanice: Klubová stanice
+  - Adresa tedy QTH
+  - Opět jméno příjmení a datum narození žadatele
+  - Volací značka žadatele tedy vaše již přidělená
+  - Hlavní opererátor stanice: To jste opět vy jako žadatel
+  - Volací značka: Tady je již požadovaná volací značka OK1 nebo OK2  a trojici písmen začínající na R, K nebo H
+
+  ![13N-2.png](/home/taz/Stažené/13N-2.png)
+
+Současně s žádostí jsem rovnou odeslala platbu na stejný účet jako při žádosti o koncesi. Jako VS se uvádí rodné číslo žadatele.
+
+> Bankovní účet ČTU: 3711-60426011/0710
+> Variabilní symbol: 1002542020 // rodné číslo bez lomítka
+> Konstantní symbol: 1148
+
+Za necelé dva dny se mi z úřadu ozvali s doplněním nějaky drobnosti jako například další QTH protože na mém oprávnění viděli dvě. To jsme spolu vyřídili rovnou telefonicky a protože odeslání klubovky datovkou prý nic nebrání obdržel jsem ji obratem za necelých 9 dní od podání žádosti.
+
+Doma jsem se hned pochlubil a následující víkend jsem ji s dcerou vyzkoušel. Jedenáctiletá si hned sedla na OK0BC s Eliškou z Opočna i s dalšími na převaděči zvládla hned první večer celkem sedm spojení které jsme poctivě zapsali do deníku. I na ní jsem pozoroval trému a rozpaky z vystoupení na pásmech. Pokud se jednou rozhodne zůčastnit kurzu u Vojty v Deštném, budou rozhodně méně vykulená než jsem byl já.
+
+# Vyhláška č. 156/2005 Sb.
+
+§ 5
+
+### Klubové stanice
+
+(1) 
+Operátor, který není držitelem průkazu HAREC nebo NOVICE, může 
+obsluhovat klubovou stanici jen v rozsahu třídy N a pod dozorem 
+operátora oprávněného provádět dozor.
+
+(2) Do 
+staničního deníku klubové stanice se zaznamenává jméno a příjmení 
+vedoucího operátora, operátora oprávněného provádět dozor, operátora 
+klubové stanice a údaje o provozu klubové stanice. Údaje o provozu do 
+staničního deníku zaznamenává operátor.
+
+(3) Údaji
+ o provozu v odstavci 2 se rozumí zejména, datum, čas a doba trvání 
+uskutečněného rádiového spojení, použité kmitočtové pásmo, druh provozu,
+ volací značka stanice a stanoviště klubové stanice, se kterou bylo 
+uskutečněno rádiové spojení.
+
+(4) S obsahem oprávnění pro klubovou stanici musí být seznámen každý její operátor.
+
+Odkazy:
+
+[Amatérská radiokomunikační služba | Český telekomunikační úřad](https://ctu.gov.cz/amaterska-radiokomunikacni-sluzba)
