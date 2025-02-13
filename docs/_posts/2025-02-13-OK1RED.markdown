@@ -1,10 +1,10 @@
-```yaml
+```
 layout: post
 title:  "Vlastní klubová značka"
 date:   2025-02-13 18:00:00 +0100
 categories: ctu
-```
 
+```
 # Vysílání s vlastními potomky aneb klubová volací značka.
 
 Moje radioamatérská kariéra začala až letos v dubnu na kurzu v Deštném u Vojty OK1ZHV. Tam jsem měl poprvné příležitost si zavysílat tehdy ještě pod jejich klubovou značkou. Dodnes si pamatuji tu trému z prvních pokusů. 
@@ -22,36 +22,38 @@ Dlouho jsem se nerozmýšlel a po výběru konkrétní značky jsem podal na ČT
 K vyplnění jsou dvě první stránky:
 
 - Strana 1:
-  
+
   - Žádost o: nové oprávnění
-  
+
   - Žadatel: Nepodnikající osoba // případně podle stavu žadatele
-  
+
   - Titul, Jméno, Příjmení
-  
+
   - Datum narození 
-  
+
   - Adresa bydliště a doručovací adresa pokud se liší
-  
+
   - Kontakty: Datová schránka, email a telefon
-  
+
   ![13N-1.png](/home/taz/Stažené/13N-1.png)
 
 - Strana 2:
-  
+
   - Typ stanice: Klubová stanice
   - Adresa tedy QTH
   - Opět jméno příjmení a datum narození žadatele
   - Volací značka žadatele tedy vaše již přidělená
   - Hlavní opererátor stanice: To jste opět vy jako žadatel
   - Volací značka: Tady je již požadovaná volací značka OK1 nebo OK2  a trojici písmen začínající na R, K nebo H
-  
+
   ![13N-2.png](/home/taz/Stažené/13N-2.png)
 
 Současně s žádostí jsem rovnou odeslala platbu na stejný účet jako při žádosti o koncesi. Jako VS se uvádí rodné číslo žadatele.
 
 > Bankovní účet ČTU: 3711-60426011/0710
+> 
 > Variabilní symbol: 1002542020 // rodné číslo bez lomítka
+> 
 > Konstantní symbol: 1148
 
 Za necelé dva dny se mi z úřadu ozvali s doplněním nějaky drobnosti jako například další QTH protože na mém oprávnění viděli dvě. To jsme spolu vyřídili rovnou telefonicky a protože odeslání klubovky datovkou prý nic nebrání obdržel jsem ji obratem za necelých 9 dní od podání žádosti.
@@ -122,3 +124,4 @@ uskutečněno rádiové spojení.
 ### Odkazy:
 
 [Amatérská radiokomunikační služba | Český telekomunikační úřad](https://ctu.gov.cz/amaterska-radiokomunikacni-sluzba)
+```
