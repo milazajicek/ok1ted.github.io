@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: O mě
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Po letech odkládání jsem se stal radioamatérém vykonáním zkoušky před komisí ČTU na kurzu operátorů vedeného Vojtou OK1ZHV v dubnu 2024.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![screen_20250107-103002](https://amaterskeradio.cz/images/a/a/f/9/e/aaf9e475b0cb1aea63a843e2e0ba6494b67b46f9-screen20250107-103002.png "screen_20250107-103002")
