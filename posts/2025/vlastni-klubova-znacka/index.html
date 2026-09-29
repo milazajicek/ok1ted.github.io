@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <!-- CSP as a meta tag, not an HTTP header -- some static hosts (e.g. Cloudron
+       Surfer) don't let you set custom response headers.
+       script-src has no 'unsafe-inline' -- the one inline <script> the layout
+       emits (window.BLOG_I18N below) is allowlisted by its exact content hash
+       instead (CLIENT_I18N_SCRIPT_HASH in build/build_blog.rb), so an actual
+       injected script still can't run just by getting itself onto the page.
+       style-src has 'unsafe-inline' for post text color (formatting: color) and
+       for inline styles carried over by imported embeds (e.g. an Instagram
+       blockquote from a migration).
+       frame-src allows both youtube.com and youtube-nocookie.com -- posts
+       imported with a raw embed_html may point at youtube.com, new videos use
+       the nocookie domain.
+       script-src/connect-src only add the analytics and Mastodon origins when
+       those integrations are actually configured (see csp_content in
+       build/build_blog.rb) -- a site with neither configured gets a tighter
+       policy for free. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-K0Jhg6W/Icv3ioATZzPV392TAajGXEAZy6Ow+8rfWJY='; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self'; connect-src 'self' https://mastodon.social; frame-src https://www.youtube.com https://www.youtube-nocookie.com; object-src 'none'; base-uri 'self'; form-action 'self'">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f7f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111111" media="(prefers-color-scheme: dark)">
+  <title>Vlastní klubová značka</title>
+  <meta name="description" content="Vysílání s vlastními potomky aneb klubová volací značka. Moje radioamatérská kariéra začala až letos v dubnu na kurzu v Deštném u Vojty OK1ZHV. Tam jsem měl pop…">
+  <link rel="canonical" href="https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/">
+  <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+  <link rel="apple-touch-icon" href="/assets/images/favicon.png">
+  <link rel="stylesheet" href="/assets/css/colors.css">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <link rel="alternate" type="application/rss+xml" title="Zápisník radioamatéra RSS" href="/rss.xml">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Zápisník radioamatéra">
+  <meta property="og:locale" content="cs_CZ">
+  <meta property="og:title" content="Vlastní klubová značka">
+  <meta property="og:description" content="Vysílání s vlastními potomky aneb klubová volací značka. Moje radioamatérská kariéra začala až letos v dubnu na kurzu v Deštném u Vojty OK1ZHV. Tam jsem měl pop…">
+  <meta property="og:url" content="https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/">
+  <meta property="og:image" content="https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/01.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="fediverse:creator" content="@yourname@mastodon.social">
+  <meta property="article:published_time" content="2025-02-13T00:00:00+01:00">
+  <meta property="article:tag" content="ctu">
+  <meta property="article:tag" content="ham">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Vlastní klubová značka","datePublished":"2025-02-13T00:00:00+01:00","url":"https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/","mainEntityOfPage":"https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/","inLanguage":"cs","author":{"@type":"Person","name":"OK1TED"},"image":"https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/01.png","description":"Vysílání s vlastními potomky aneb klubová volací značka. Moje radioamatérská kariéra začala až letos v dubnu na kurzu v Deštném u Vojty OK1ZHV. Tam jsem měl pop…","keywords":"ctu, ham"}</script>
+
+</head>
+<body>
+  <div class="wrap">
+    <div class="banner-wrap">
+      <a href="/" class="banner-link"><img class="banner" src="/assets/images/header.png" alt="Your Site" width="1880" height="600"></a>
+      <div class="banner-overlay">
+        <p class="banner-title">Zápisník radioamatéra</p>
+        <p class="banner-claim">Publikuji své radioamtérské poznatky a plány.</p>
+      </div>
+      <button id="theme-toggle" type="button" title="Vzhled: podle systému" aria-label="Vzhled: podle systému">☀︎/☾︎</button>
+    </div>
+    <nav aria-label="Web">
+      <button class="nav-toggle" type="button" aria-label="Menu" aria-expanded="false">
+        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <ul>
+        <li><a href="/">Vše</a></li>
+        <li><a href="/type/text/">Text</a></li>
+      </ul>
+
+      <form class="search-form" action="/search/" method="get" role="search">
+        <input type="search" name="q" id="search-q" placeholder="Hledat…" autocomplete="off">
+        <button type="submit" aria-label="Hledat">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </button>
+      </form>
+
+    </nav>
+
+
+    <div class="layout">
+      <main>
+        <div class="card has-hero">
+          <article>
+            <div class="post-header">
+              <div class="post-hero">
+                <div class="post-hero__media">
+                  <img src="/posts/2025/vlastni-klubova-znacka/01.png" width="946" height="248" alt="Kurz Deštné 2024" decoding="async" fetchpriority="high">
+                </div>
+                <div class="post-hero__content">
+                  
+                  <h1>Vlastní klubová značka</h1>
+                  <p class="post-hero__meta"><span class="post-hero__author">OK1TED</span><a href="/archive/2025/#m02"><time datetime="2025-02-13T00:00:00+01:00">13. 2. 2025</time></a><span class="post-stat reading-time" title="Na čtení 4 min" aria-label="Na čtení 4 min"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7V12l3.5 2"/></svg><span>4 min</span></span></p>
+                </div>
+              </div>
+              <div class="post-body">
+                
+                <div class="post-meta"><div class="post-stats" data-toot-url="https://mastodon.social/@ok1ted/117355924917870804"></div></div><nav class="toc" aria-label="Obsah"><p class="toc-heading">Na téhle stránce</p><ol><li class="toc-l3"><a href="#k-vyplneni-jsou-dve-prvni-stranky">K vyplnění jsou dvě první stránky:</a></li><li class="toc-l5"><a href="#strana-1">Strana 1:</a></li><li class="toc-l5"><a href="#strana-2">Strana 2:</a></li><li class="toc-l5"><a href="#operatorska-trida-n-novice">Operátorská třída N (Novice)</a></li><li class="toc-l3"><a href="#vyhlaska-c-156-2005-sb">Vyhláška č. 156/2005 Sb.</a></li><li class="toc-l4"><a href="#klubove-stanice">Klubové stanice</a></li></ol></nav>
+                
+                <div class="content">
+                  <p>Vysílání s vlastními potomky aneb klubová volací značka.</p>
+<p>Moje radioamatérská kariéra začala až letos v dubnu na kurzu v Deštném u Vojty OK1ZHV. Tam jsem měl poprvné příležitost si zavysílat tehdy ještě pod jejich klubovou značkou. Dodnes si pamatuji tu trému z prvních pokusů.</p>
+<p>Postupně jak objevuji další možnosti radioamaterského hobby, mě začínají s menším nebo větším zájmem sledovat i moji potomci, ale co jim má dnes otec radioamatér povědět když si to chtěli také zkusit. Bohužel v našich končinách není možné aby vysílalo dítě s rodičem. Radioklub kam bych se s dětmi mohl vydat u nás není a stejně jde u dětí spíš o zvědavost než vážný zájem.</p>
+<p>Naštěstí mě kamarád radioamatér přivedl na myšlenku zřízení klubové nebo chceteli kolektivní značky. Tato s omezeném třídy Novice dovoluje vysílat pod dozorem i neradioamatérům a můj problém by mohla vyřešit.</p>
+<blockquote>Klubovým stanicím se přidělují volací značky začínající OK1 a OK2 a trojice písmen, začínající písmeny K, O nebo R</blockquote>
+<p>Dlouho jsem se nerozmýšlel a po výběru konkrétní značky jsem podal na ČTU žádost. Z pohodlnosti jsem se rozhodl pořídit kolektivku ihned abych měl obnovu obou svých značek ve stejném roce. Po krátkém hledání na stránkách ČTU jsem našel formulář <a href="https://ctu.gov.cz/sites/default/files/obsah/ctu-new/formulare/zadosti-a-navrhy/13n.zfo">13N</a> který je potřeba odeslat. Jako jeden z mnoha ho nemá ČTU v online podobě a k jeho vyplnění je třeba použít <a href="https://www.602.cz/form-filler">602FormFiller</a>, který před nějakou dobou vyšel i pro Linux a nečekal jsem tedy v použití tohoto uzavřeného formátu žádný větší problém. Bohužel v Software602 dospěli k nápadu ukončení podpory Linuxu a tím mi zavřeli cestu k vyplnění úředníkem definovaného formuláře. Obešel jsem to zkušební verzí online virtuálního počítače s Windows od Microsoftu a formulář odeslal datovou schránkou.</p>
+<h3 id="k-vyplneni-jsou-dve-prvni-stranky">K vyplnění jsou dvě první stránky:</h3>
+<h5 id="strana-1">Strana 1:</h5>
+<ul><li>Žádost o: nové oprávnění</li></ul>
+<ul><li>Žadatel: Nepodnikající osoba // případně podle stavu žadatele</li></ul>
+<ul><li>Titul, Jméno, Příjmení</li></ul>
+<ul><li>Datum narození</li></ul>
+<ul><li>Adresa bydliště a doručovací adresa pokud se liší</li></ul>
+<ul><li>Kontakty: Datová schránka, email a telefon</li></ul>
+<h5 id="strana-2">Strana 2:</h5>
+<ul><li>Typ stanice: Klubová stanice</li><li>Adresa tedy QTH</li><li>Opět jméno příjmení a datum narození žadatele</li><li>Volací značka žadatele tedy vaše již přidělená</li><li>Hlavní opererátor stanice: To jste opět vy jako žadatel</li><li>Volací značka: Tady je již požadovaná volací značka OK1 nebo OK2 a trojici písmen začínající na R, K nebo H</li></ul>
+<p>Současně s žádostí jsem rovnou odeslala platbu na stejný účet jako při žádosti o koncesi. Jako VS se uvádí rodné číslo žadatele.</p>
+<blockquote>Bankovní účet ČTU: 3711-60426011/0710<br><br>Variabilní symbol: 1002542020 // rodné číslo bez lomítka<br><br>Konstantní symbol: 1148</blockquote>
+<p>Za necelé dva dny se mi z úřadu ozvali s doplněním nějaky drobnosti jako například další QTH protože na mém oprávnění viděli dvě. To jsme spolu vyřídili rovnou telefonicky a protože odeslání klubovky datovkou prý nic nebrání obdržel jsem ji obratem za necelých 9 dní od podání žádosti.</p>
+<p>Doma jsem se hned pochlubil a následující víkend jsem ji s dcerou vyzkoušel. Jedenáctiletá si hned sedla na OK0BC s Eliškou z Opočna i s dalšími na převaděči zvládla hned první večer celkem sedm spojení které jsme poctivě zapsali do deníku. I na ní jsem pozoroval trému a rozpaky z vystoupení na pásmech. Pokud se jednou rozhodne zůčastnit kurzu u Vojty v Deštném, budou rozhodně méně vykulená než jsem byl já.</p>
+<h5 id="operatorska-trida-n-novice">Operátorská třída N (Novice)</h5>
+<div class="table-wrap"><table><thead><tr><th>Kmitočtové pásmo</th><th></th><th>Status*)</th></tr></thead><tbody><tr><td>Od</td><td>Do</td><td></td></tr><tr><td>1 830 kHz</td><td>1 850 kHz</td><td>P</td></tr><tr><td>1 850 kHz</td><td>2 000 kHz</td><td>NIB VI)</td></tr><tr><td>3 550 kHz</td><td>3 700 kHz</td><td>P</td></tr><tr><td>21,050 MHz</td><td>21,200 MHz</td><td>P</td></tr><tr><td>28,050 MHz</td><td>28,400 MHz</td><td>P</td></tr><tr><td>144 MHz</td><td>146 MHz</td><td>P</td></tr><tr><td>430 MHz</td><td>440 MHz</td><td></td></tr><tr><td>1 240 MHz</td><td>1 300 MHz</td><td>S</td></tr><tr><td>2 300 MHz</td><td>2 450 MHz</td><td>S</td></tr><tr><td>3 400 MHz</td><td>3 410 MHz</td><td>NIB VI)</td></tr><tr><td>5 650 MHz</td><td>5 850 MHz</td><td>S</td></tr><tr><td>10,00 GHz</td><td>10,50 GHz</td><td></td></tr><tr><td>24,00 GHz</td><td>24,05 GHz</td><td>P</td></tr><tr><td>24,05 GHz</td><td>24,25 GHz</td><td>S</td></tr><tr><td>47,00 GHz</td><td>47,20 GHz</td><td>P</td></tr><tr><td>75,50 GHz</td><td>76,00 GHz</td><td></td></tr><tr><td>76,00 GHz</td><td>77,50 GHz</td><td>S</td></tr><tr><td>77,50 GHz</td><td>78,00 GHz</td><td>P</td></tr><tr><td>78,00 GHz</td><td>81,00 GHz</td><td>S</td></tr><tr><td>122,25 GHz</td><td>123,00 GHz</td><td></td></tr><tr><td>134,00 GHz</td><td>136,00 GHz</td><td>P</td></tr><tr><td>136,00 GHz</td><td>141,00 GHz</td><td>S</td></tr><tr><td>241,00 GHz</td><td>248,00 GHz</td><td></td></tr><tr><td>248,00 GHz</td><td>250,00 GHz</td><td>P</td></tr></tbody></table></div>
+<p><i>P = přednostní (primární) pásmo</i></p>
+<p><i>S = podružné (sekundární) pásmo</i></p>
+<p><i>NIB = na neinterferenční bázi</i></p>
+<h3 id="vyhlaska-c-156-2005-sb">Vyhláška č. 156/2005 Sb.</h3>
+<p>§ 5</p>
+<h4 id="klubove-stanice">Klubové stanice</h4>
+<p>(1)  Operátor, který není držitelem průkazu HAREC nebo NOVICE, může  obsluhovat klubovou stanici jen v rozsahu třídy N a pod dozorem  operátora oprávněného provádět dozor.</p>
+<p>(2) Do  staničního deníku klubové stanice se zaznamenává jméno a příjmení  vedoucího operátora, operátora oprávněného provádět dozor, operátora  klubové stanice a údaje o provozu klubové stanice. Údaje o provozu do  staničního deníku zaznamenává operátor.</p>
+<p>(3) Údaji  o provozu v odstavci 2 se rozumí zejména, datum, čas a doba trvání  uskutečněného rádiového spojení, použité kmitočtové pásmo, druh provozu,  volací značka stanice a stanoviště klubové stanice, se kterou bylo  uskutečněno rádiové spojení.</p>
+<p>(4) S obsahem oprávnění pro klubovou stanici musí být seznámen každý její operátor.</p>
+                </div>
+                <div class="tags"><a class="tag-pill" href="/tag/ctu/">ctu</a><a class="tag-pill" href="/tag/ham/">ham</a></div>
+                
+                  <div class="comments">
+                    <h3>Komentáře</h3>
+                    <div id="comments" data-toot-url="https://mastodon.social/@ok1ted/117355924917870804"></div>
+                  </div>
+                
+              </div>
+            </div>
+          </article>
+        </div>
+        <nav class="pagination back" aria-label="Stránky"><a href="/">← zpět na výpis</a></nav>
+
+      </main>
+
+      <aside>
+        <div class="card">
+          <h3>O mně</h3>
+          <div class="chrome-text"><p>Po letech odkládání jsem se stal radioamatérém vykonáním zkoušky před komisí ČTU na kurzu operátorů vedeného Vojtou OK1ZHV v dubnu 2024. screen_20250107-103002 V současnosti používám v domácím QTH následující vybavení: Tranceiver Yaesu FT-991A Antény: Diamond BB6WS - drátová antéma pro pásmo 3 - 30 MHz Diamond X-50 - Dual Band 4,5dB (144-146MHz), 7,2dB (430-440MHz) Kromě provozu z domácího QTH si užívám vysílání z přírody kde používám transcever Elecraft KX-2 společně s EndFed drátovou anténou. Zpravidla vysílám SSB, ale pilně se věnuji i studiu morseovky a netrpělivě vyhlížím svá budoucí CW spojení. OK1TED - Zápisník radioamatera <i> OK1TED - Zápisník radioamatera </i> mila@ok1ted.cz <i> milazajicek </i> ok1ted Na těchto stránkách shromažďuji odkazy a zajímavosti z mého radioamtérského života.</p></div>
+        </div>
+
+        <div class="card">
+          <h3>Poslední tooty</h3>
+          <div id="last-toots"></div>
+        </div>
+
+
+
+
+
+      </aside>
+
+    </div>
+
+    
+<footer>
+      <div>
+
+        <h3>Odkazy</h3>
+        <ul>
+          <li><a href="https://example.com">Example</a></li>
+        </ul>
+
+      </div>
+      <div>
+
+        <h3>Found something here?</h3>
+        <div class="chrome-text"><p>If an article or photo here caught your eye and you'd like to use it elsewhere, let me know -- happy to work something out. Please don't just copy-paste my content elsewhere without asking!</p></div>
+
+
+        <p class="copyright">All rights reserved &copy; 2026</p>
+
+      </div>
+      <div>
+
+        <h3>Kde mě najdeš</h3>
+        <div class="social-icons">
+          <a href="https://mastodon.social/@yourname" rel="me" title="Mastodon"><svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M23.268 5.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242 15.792 0 11.813 0h-.03c-3.98 0-4.835.242-5.288.309C3.882.692 1.496 2.518.917 5.127.64 6.412.61 7.837.661 9.143c.074 1.874.088 3.745.26 5.611.118 1.24.325 2.47.62 3.68.55 2.237 2.777 4.098 4.96 4.857 2.336.792 4.849.923 7.256.38.265-.061.527-.132.786-.213.585-.184 1.27-.39 1.774-.753a.057.057 0 0 0 .023-.043v-1.809a.052.052 0 0 0-.02-.041.053.053 0 0 0-.046-.01 20.282 20.282 0 0 1-4.709.545c-2.73 0-3.463-1.284-3.674-1.818a5.593 5.593 0 0 1-.319-1.433.053.053 0 0 1 .066-.054c1.517.363 3.072.546 4.632.546.376 0 .75 0 1.125-.01 1.57-.044 3.224-.124 4.768-.422.038-.008.077-.015.11-.024 2.435-.464 4.753-1.92 4.989-5.604.008-.145.03-1.52.03-1.67.002-.512.167-3.63-.024-5.545zm-3.748 9.195h-2.561V8.29c0-1.309-.55-1.976-1.67-1.976-1.23 0-1.846.79-1.846 2.35v3.403h-2.546V8.663c0-1.56-.617-2.35-1.848-2.35-1.112 0-1.668.668-1.67 1.977v6.218H4.822V8.102c0-1.31.337-2.35 1.011-3.12.696-.77 1.608-1.164 2.74-1.164 1.311 0 2.302.5 2.962 1.498l.638 1.06.638-1.06c.66-.999 1.65-1.498 2.96-1.498 1.13 0 2.043.395 2.74 1.164.675.77 1.012 1.81 1.012 3.12z"/></svg></a>
+          <a href="https://bsky.app/profile/yourname.bsky.social" title="Bluesky"><svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg></a>
+          <a href="https://github.com/yourname" title="GitHub"><svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
+          <a href="mailto:you@example.com" title="E-mail"><svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
+        </div>
+
+      </div>
+    </footer>
+
+  </div>
+
+  <button id="scroll-top" type="button" title="Nahoru">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 15l6-6 6 6"/></svg>
+  </button>
+
+  <script>window.BLOG_I18N = {"date_locale":"cs-CZ","tags_sort_alpha":"Abecedně","tags_sort_count":"Podle četnosti","stats_favourited":"Oblíbeno","stats_boosted":"Boostnuto","stats_comments":"Komentářů","reply_on_mastodon":"Reagovat na Mastodonu","reply_on_bluesky":"Reagovat na Bluesky","comments_moderated":"Komentáře, které autor vybral. Celá diskuse je na síti.","comment_picture":"Obrázek","results_one":"výsledek","results_few":"výsledky","results_many":"výsledků","results_capped":" — zobrazeno nejlepších %{count}","no_results_pending":"Nic nenalezeno,","no_results_final":"Nic nenalezeno.","try_other_words":" Zkus jiná / obecnější slova.","searching_archive":" (hledám i ve starším archivu…)","archive_unavailable":" (starší archiv se nepodařilo načíst)","search_prompt":"Zadej dotaz.","loading_index":"Načítám index…","index_unavailable":"Vyhledávací index není k dispozici.","lightbox_close":"Zavřít","lightbox_prev":"Předchozí","lightbox_next":"Další","lightbox_label":"Prohlížeč obrázků","lightbox_open":"Zvětšit obrázek","copy_code":"Zkopírovat text","copy_code_done":"Zkopírováno","copy_code_failed":"Zkopírovat se nepovedlo","theme_auto":"Vzhled: podle systému","theme_light":"Vzhled: světlý","theme_dark":"Vzhled: tmavý"};</script>
+  <script src="/assets/js/util.js"></script>
+  <script src="/assets/js/theme-toggle.js"></script>
+  <script src="/assets/js/nav-toggle.js"></script>
+  <script src="/assets/js/scroll-top.js"></script>
+  <script src="/assets/js/sidebar.js"></script>
+  <script src="/assets/js/comments.js"></script>
+  <script src="/assets/js/search.js"></script>
+  <script src="/assets/js/tag-index.js"></script>
+  <script src="/assets/js/lightbox.js"></script>
+  <script src="/assets/js/copy-code.js"></script>
+  <script src="/assets/js/share.js"></script>
+</body>
+</html>

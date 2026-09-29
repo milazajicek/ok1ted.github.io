@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OK1TED</title>
+    <link>https://ok1ted.cz/</link>
+    <atom:link href="https://ok1ted.cz/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Publikuji své radioamtérské poznatky a plány.</description>
+    <language>cs</language>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0100</lastBuildDate>
+    <item>
+  <title>Vlastní klubová značka</title>
+  <link>https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/</link>
+  <guid isPermaLink="true">https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/</guid>
+  <pubDate>Thu, 13 Feb 2025 00:00:00 +0100</pubDate>
+  <description><![CDATA[<p>Vysílání s vlastními potomky aneb klubová volací značka.</p>
+<p>Moje radioamatérská kariéra začala až letos v dubnu na kurzu v Deštném u Vojty OK1ZHV. Tam jsem měl poprvné příležitost si zavysílat tehdy ještě pod jejich klubovou značkou. Dodnes si pamatuji tu trému z prvních pokusů.</p>
+<figure><img src="https://ok1ted.cz/posts/2025/vlastni-klubova-znacka/01.png" width="946" height="248" alt="Kurz Deštné 2024" loading="lazy" decoding="async"><figcaption>Sestava kurzu operátorů v Deštném 2024</figcaption></figure>
+<p>Postupně jak objevuji další možnosti radioamaterského hobby, mě začínají s menším nebo větším zájmem sledovat i moji potomci, ale co jim má dnes otec radioamatér povědět když si to chtěli také zkusit. Bohužel v našich končinách není možné aby vysílalo dítě s rodičem. Radioklub kam bych se s dětmi mohl vydat u nás není a stejně jde u dětí spíš o zvědavost než vážný zájem.</p>
+<p>Naštěstí mě kamarád radioamatér přivedl na myšlenku zřízení klubové nebo chceteli kolektivní značky. Tato s omezeném třídy Novice dovoluje vysílat pod dozorem i neradioamatérům a můj problém by mohla vyřešit.</p>
+<blockquote>Klubovým stanicím se přidělují volací značky začínající OK1 a OK2 a trojice písmen, začínající písmeny K, O nebo R</blockquote>
+<p>Dlouho jsem se nerozmýšlel a po výběru konkrétní značky jsem podal na ČTU žádost. Z pohodlnosti jsem se rozhodl pořídit kolektivku ihned abych měl obnovu obou svých značek ve stejném roce. Po krátkém hledání na stránkách ČTU jsem našel formulář <a href="https://ctu.gov.cz/sites/default/files/obsah/ctu-new/formulare/zadosti-a-navrhy/13n.zfo">13N</a> který je potřeba odeslat. Jako jeden z mnoha ho nemá ČTU v online podobě a k jeho vyplnění je třeba použít <a href="https://www.602.cz/form-filler">602FormFiller</a>, který před nějakou dobou vyšel i pro Linux a nečekal jsem tedy v použití tohoto uzavřeného formátu žádný větší problém. Bohužel v Software602 dospěli k nápadu ukončení podpory Linuxu a tím mi zavřeli cestu k vyplnění úředníkem definovaného formuláře. Obešel jsem to zkušební verzí online virtuálního počítače s Windows od Microsoftu a formulář odeslal datovou schránkou.</p>
+<h3 id="k-vyplneni-jsou-dve-prvni-stranky">K vyplnění jsou dvě první stránky:</h3>
+<h5 id="strana-1">Strana 1:</h5>
+<ul><li>Žádost o: nové oprávnění</li></ul>
+<ul><li>Žadatel: Nepodnikající osoba // případně podle stavu žadatele</li></ul>
+<ul><li>Titul, Jméno, Příjmení</li></ul>
+<ul><li>Datum narození</li></ul>
+<ul><li>Adresa bydliště a doručovací adresa pokud se liší</li></ul>
+<ul><li>Kontakty: Datová schránka, email a telefon</li></ul>
+<h5 id="strana-2">Strana 2:</h5>
+<ul><li>Typ stanice: Klubová stanice</li><li>Adresa tedy QTH</li><li>Opět jméno příjmení a datum narození žadatele</li><li>Volací značka žadatele tedy vaše již přidělená</li><li>Hlavní opererátor stanice: To jste opět vy jako žadatel</li><li>Volací značka: Tady je již požadovaná volací značka OK1 nebo OK2 a trojici písmen začínající na R, K nebo H</li></ul>
+<p>Současně s žádostí jsem rovnou odeslala platbu na stejný účet jako při žádosti o koncesi. Jako VS se uvádí rodné číslo žadatele.</p>
+<blockquote>Bankovní účet ČTU: 3711-60426011/0710<br><br>Variabilní symbol: 1002542020 // rodné číslo bez lomítka<br><br>Konstantní symbol: 1148</blockquote>
+<p>Za necelé dva dny se mi z úřadu ozvali s doplněním nějaky drobnosti jako například další QTH protože na mém oprávnění viděli dvě. To jsme spolu vyřídili rovnou telefonicky a protože odeslání klubovky datovkou prý nic nebrání obdržel jsem ji obratem za necelých 9 dní od podání žádosti.</p>
+<p>Doma jsem se hned pochlubil a následující víkend jsem ji s dcerou vyzkoušel. Jedenáctiletá si hned sedla na OK0BC s Eliškou z Opočna i s dalšími na převaděči zvládla hned první večer celkem sedm spojení které jsme poctivě zapsali do deníku. I na ní jsem pozoroval trému a rozpaky z vystoupení na pásmech. Pokud se jednou rozhodne zůčastnit kurzu u Vojty v Deštném, budou rozhodně méně vykulená než jsem byl já.</p>
+<h5 id="operatorska-trida-n-novice">Operátorská třída N (Novice)</h5>
+<div class="table-wrap"><table><thead><tr><th>Kmitočtové pásmo</th><th></th><th>Status*)</th></tr></thead><tbody><tr><td>Od</td><td>Do</td><td></td></tr><tr><td>1 830 kHz</td><td>1 850 kHz</td><td>P</td></tr><tr><td>1 850 kHz</td><td>2 000 kHz</td><td>NIB VI)</td></tr><tr><td>3 550 kHz</td><td>3 700 kHz</td><td>P</td></tr><tr><td>21,050 MHz</td><td>21,200 MHz</td><td>P</td></tr><tr><td>28,050 MHz</td><td>28,400 MHz</td><td>P</td></tr><tr><td>144 MHz</td><td>146 MHz</td><td>P</td></tr><tr><td>430 MHz</td><td>440 MHz</td><td></td></tr><tr><td>1 240 MHz</td><td>1 300 MHz</td><td>S</td></tr><tr><td>2 300 MHz</td><td>2 450 MHz</td><td>S</td></tr><tr><td>3 400 MHz</td><td>3 410 MHz</td><td>NIB VI)</td></tr><tr><td>5 650 MHz</td><td>5 850 MHz</td><td>S</td></tr><tr><td>10,00 GHz</td><td>10,50 GHz</td><td></td></tr><tr><td>24,00 GHz</td><td>24,05 GHz</td><td>P</td></tr><tr><td>24,05 GHz</td><td>24,25 GHz</td><td>S</td></tr><tr><td>47,00 GHz</td><td>47,20 GHz</td><td>P</td></tr><tr><td>75,50 GHz</td><td>76,00 GHz</td><td></td></tr><tr><td>76,00 GHz</td><td>77,50 GHz</td><td>S</td></tr><tr><td>77,50 GHz</td><td>78,00 GHz</td><td>P</td></tr><tr><td>78,00 GHz</td><td>81,00 GHz</td><td>S</td></tr><tr><td>122,25 GHz</td><td>123,00 GHz</td><td></td></tr><tr><td>134,00 GHz</td><td>136,00 GHz</td><td>P</td></tr><tr><td>136,00 GHz</td><td>141,00 GHz</td><td>S</td></tr><tr><td>241,00 GHz</td><td>248,00 GHz</td><td></td></tr><tr><td>248,00 GHz</td><td>250,00 GHz</td><td>P</td></tr></tbody></table></div>
+<p><i>P = přednostní (primární) pásmo</i></p>
+<p><i>S = podružné (sekundární) pásmo</i></p>
+<p><i>NIB = na neinterferenční bázi</i></p>
+<h3 id="vyhlaska-c-156-2005-sb">Vyhláška č. 156/2005 Sb.</h3>
+<p>§ 5</p>
+<h4 id="klubove-stanice">Klubové stanice</h4>
+<p>(1)  Operátor, který není držitelem průkazu HAREC nebo NOVICE, může  obsluhovat klubovou stanici jen v rozsahu třídy N a pod dozorem  operátora oprávněného provádět dozor.</p>
+<p>(2) Do  staničního deníku klubové stanice se zaznamenává jméno a příjmení  vedoucího operátora, operátora oprávněného provádět dozor, operátora  klubové stanice a údaje o provozu klubové stanice. Údaje o provozu do  staničního deníku zaznamenává operátor.</p>
+<p>(3) Údaji  o provozu v odstavci 2 se rozumí zejména, datum, čas a doba trvání  uskutečněného rádiového spojení, použité kmitočtové pásmo, druh provozu,  volací značka stanice a stanoviště klubové stanice, se kterou bylo  uskutečněno rádiové spojení.</p>
+<p>(4) S obsahem oprávnění pro klubovou stanici musí být seznámen každý její operátor.</p>]]></description>
+  <category>ctu</category><category>ham</category>
+</item>
+
+  </channel>
+</rss>
