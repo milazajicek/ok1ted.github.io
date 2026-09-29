@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OK1TED</title>
+    <link>https://www.ok1ted.cz/</link>
+    <atom:link href="https://www.ok1ted.cz/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Publikuji své radioamtérské poznatky a plány.</description>
+    <language>cs</language>
+    <lastBuildDate>Tue, 29 Sep 2026 21:15:03 +0200</lastBuildDate>
+    <item>
+  <title>Vlastní klubová značka</title>
+  <link>https://www.ok1ted.cz/posts/2026/vlastni-klubova-znacka/</link>
+  <guid isPermaLink="true">https://www.ok1ted.cz/posts/2026/vlastni-klubova-znacka/</guid>
+  <pubDate>Tue, 29 Sep 2026 21:15:03 +0200</pubDate>
+  <description><![CDATA[<p>Vysílání s vlastními potomky aneb klubová volací značka.</p>
+<p>Moje radioamatérská kariéra začala až letos v dubnu na kurzu v Deštném u Vojty OK1ZHV. Tam jsem měl poprvné příležitost si zavysílat tehdy ještě pod jejich klubovou značkou. Dodnes si pamatuji tu trému z prvních pokusů.</p>]]></description>
+  <category>ctu</category><category>ham</category>
+</item>
+
+  </channel>
+</rss>

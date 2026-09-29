@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.ok1ted.cz/sitemap.xml

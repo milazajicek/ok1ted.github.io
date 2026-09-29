@@ -1,0 +1,74 @@
+/* Generated at build time from config/site.yml (`colors:` and `fonts:`)
+   -- edit the config and rebuild, don't edit this file by hand. */
+:root {
+  --banner-title-font: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace;
+  --banner-claim-font: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace;
+  --banner-title-size: 45px;
+  --banner-claim-size: 20px;
+}
+
+:root,
+:root[data-theme="light"] {
+  --bg: #f5f8fa;
+  --card-bg: #ffffff;
+  --footer-bg: #eaf5fd;
+  --text: #444a5a;
+  --meta-text: #657784;
+  --accent: #1da1f2;
+  --nav-bg: #eaf5fd;
+  --nav-text: #444a5a;
+  --border: #e1e8ed;
+  --nav-border: #657784;
+  --pill-bg: #d6ecfc;
+  --search-bg: #ffffff;
+  --hover-invert: #657784;
+  --badge-hover-text: #ffffff;
+  --banner-title-color: #eaf5fd;
+  --banner-claim-color: #eaf5fd;
+}
+
+/* WARNING: the dark values appear twice below and must stay identical.
+   CSS can't share a declaration block across an @media boundary, so
+   "follow the system" and "explicitly switched" can't be written
+   together. (A single declaration would be possible via light-dark(),
+   but that needs Safari 17.5+ / Chrome 123+, and colors would fall
+   apart completely in older browsers.) */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111111;
+    --card-bg: #192734;
+    --footer-bg: #111111;
+    --text: #ffffff;
+    --meta-text: #6a7f8c;
+    --accent: #4ab3f4;
+    --nav-bg: #192734;
+    --nav-text: #ffffff;
+    --border: #263340;
+    --nav-border: #6a7f8c;
+    --pill-bg: #16324a;
+    --search-bg: #eeeeee;
+    --hover-invert: #ffffff;
+    --badge-hover-text: var(--accent);
+    --banner-title-color: #ffffff;
+    --banner-claim-color: #ffffff;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #111111;
+  --card-bg: #192734;
+  --footer-bg: #111111;
+  --text: #ffffff;
+  --meta-text: #6a7f8c;
+  --accent: #4ab3f4;
+  --nav-bg: #192734;
+  --nav-text: #ffffff;
+  --border: #263340;
+  --nav-border: #6a7f8c;
+  --pill-bg: #16324a;
+  --search-bg: #eeeeee;
+  --hover-invert: #ffffff;
+  --badge-hover-text: var(--accent);
+  --banner-title-color: #ffffff;
+  --banner-claim-color: #ffffff;
+}
